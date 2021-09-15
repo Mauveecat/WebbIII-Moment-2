@@ -1,0 +1,21 @@
+/* Generella inställningar för sidan */
+
+body {
+    background-color: teal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+/* Bild-diven */
+
+#images {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
